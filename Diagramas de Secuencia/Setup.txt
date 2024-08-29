@@ -1,1 +1,0 @@
-Esta carpeta tiene todos los diagramas de secuencia de los casos de uso, de los iniciales y todos los demás versiones.
